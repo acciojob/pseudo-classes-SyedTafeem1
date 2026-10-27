@@ -6,7 +6,7 @@
             background-color: black;
             color: white;
         }
-        .first :nth-child(2){
+        .first p:nth-child(2){
             color: black;
         }
         .first :last-child{
